@@ -1,4 +1,5 @@
 class Sample:
     def sample_func(self):
-        print "Hello World"
+        print "This is for testing purpose."
+        print "Welocme to Robot Framework."
         return "PASSED"
